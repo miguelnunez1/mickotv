@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/04/Discovery-Channel-earth-logo.png", DISCOVERY CHANNEL
+#EXTVLCOPT:audio-track=n
+http://iptvmexico.x10host.com/get.php?calidad=05&canal=DISCOVERY_CHANNEL_HD&token=654123_40.m3u
